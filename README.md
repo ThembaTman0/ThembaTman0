@@ -72,9 +72,9 @@
 
 
 </p>
-<!-- 
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ThembaTman0">
 </a>
-<a href="https://github.com/ThembaTman0?tab=followers"><img src="https://img.shields.io/github/followers/ThembaTman0?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<a href="https://github.com/ThembaTman0?tab=followers"><img src="https://img.shields.io/github/followers/ThembaTman0?label=Followers&style=social" alt="GitHub Badge"></a> 
