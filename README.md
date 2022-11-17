@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 My Honours publication. *[Publication](https://riteshajoodha.co.za/sitepad-data/uploads/2022/01/FINAL-REPORT.pdf)*
+- 🌱 My Honours publication. **[Publication](https://riteshajoodha.co.za/sitepad-data/uploads/2022/01/FINAL-REPORT.pdf)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **thembatman0@gmail.com**
 
-- ⚡ Fun fact **I play games and creating 3D art.**
+- ⚡ Fun fact **i am a self taught 3D artist.**
 
 ## 🚀 Languages and Tools:
 
