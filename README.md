@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Mathematical Foundations of Data Science.**
+- 🌱 My Honours publication.*[Publication](https://riteshajoodha.co.za/sitepad-data/uploads/2022/01/FINAL-REPORT.pdf)*
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
