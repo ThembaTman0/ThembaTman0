@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 My Honours publication. **[Publication](https://riteshajoodha.co.za/sitepad-data/uploads/2022/01/FINAL-REPORT.pdf)**
+- 🌱 My Honours publication. **[Publication](https://ieeexplore.ieee.org/abstract/document/9988636)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
