@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **i am a self taught 3D artist.**
 
+- [🐇 CLI ](https://devthemba.netlify.app/)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
