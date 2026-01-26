@@ -1,82 +1,102 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-<h1 align="center">Hi, I'm Themba</h1>
-<h3 align="center">I'm a Computer Science student from South Africa, Gauteng.</h3>
+<h1 align="center">Hi, I'm Themba Ngobeni 👋</h1>
+<h3 align="center">
+Backend-Focused Java Engineer • Banking Systems • Distributed Systems
+</h3>
 
+<p align="center">
+🇿🇦 South Africa | 🌍 Open to Global Opportunities
+</p>
+
+---
 
 ## 🙋‍♂️ About Me
 
-- 🌱 My Honours publication. **[Publication](https://ieeexplore.ieee.org/abstract/document/9988636)**
+I’m a **backend-focused Java developer** with experience building and maintaining **banking-grade systems**, with a strong interest in **distributed systems, system design, and JVM internals**.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+I care deeply about:
 
-- 👨‍💻 Take a look at my projects at **[My Portfolio](https://thembangobeni.netlify.app/)**
+* correctness over cleverness
+* systems that survive failure
+* code that explains itself
 
-- 📫 How to reach me **thembatman0@gmail.com**
+📌 I aim to write software that is **boring in production and impressive in design**.
 
-- ⚡ Fun fact **i am a self taught 3D artist.**
+* 📄 **IEEE Honours Publication** →
+  **[View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9988636)**
 
-- [🐇 CLI ](https://devthemba.netlify.app/)
+* 🏦 Experience working with **enterprise & financial systems**
 
-## 🚀 Languages and Tools:
+* 👯 Open to collaborating on **serious Open Source projects**
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-<!--     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<!--     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-<!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
-<!--     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
-<!--     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>    -->
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-<!--     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
+* 👨‍💻 Portfolio → **[thembangobeni.netlify.app](https://thembangobeni.netlify.app/)**
+
+* 🐇 Terminal-style portfolio → **[devthemba.netlify.app](https://devthemba.netlify.app/)**
+
+* 📫 Reach me at → **[thembatman0@gmail.com](mailto:thembatman0@gmail.com)**
+
+* ⚡ Fun fact: self-taught **3D artist** (yes, engineers can be creative)
+
+---
+
+## 🚀 Core Technologies & Tools
+
+### Primary Focus
+
+<p align="left">
+  <a href="https://www.java.com"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/></a>
+  <a href="https://spring.io"><img src="https://img.icons8.com/color/48/spring-logo.png"/></a>
+  <a href="https://www.mysql.com"><img src="https://img.icons8.com/fluent/50/mysql-logo.png"/></a>
+  <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/git.png"/></a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+### Supporting Stack
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/javascript.png"/></a>
+  <a href="https://reactjs.org"><img src="https://img.icons8.com/color/48/react-native.png"/></a>
+  <a href="https://nodejs.org"><img src="https://img.icons8.com/color/48/nodejs.png"/></a>
+  <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/python.png"/></a>
+</p>
+
+> I prioritize **strong backend fundamentals** and use frontend tools where they add real value.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-    <a href="https://github.com/ThembaTman0/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Themba Ngobeni streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ThembaTman0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThembaTman0&theme=black-ice&hide_border=true&background=060A0C"/>
 </p>
 
-## 📊 My Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThembaTman0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThembaTman0&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</p>
 
-  <br/>
-    <a href="https://github.com/ThembaTman0/github-readme-stats"><img alt="Themba Ngobeni Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThembaTman0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ThembaTman0/github-readme-stats"><img alt="Themba Ngobeni Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThembaTman0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<sub>
+Top languages reflect public repositories, not overall experience.
+</sub>
 
+---
 
-<br/>
-<br/>
+## 🌐 Connect With Me
 
-<a href="https://github.com/ThembaTman0/github-readme-activity-graph"><img alt="Themba Ngobeni Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ThembaTman0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/themba-ngobeni-6a163b164/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://codepen.io/thembatman0"><img src="https://img.icons8.com/ios-filled/48/codepen.png"/></a>
-
-
+  <a href="https://www.linkedin.com/in/themba-ngobeni-6a163b164/">
+    <img src="https://img.icons8.com/fluent/48/linkedin.png"/>
+  </a>
+  <a href="https://codepen.io/thembatman0">
+    <img src="https://img.icons8.com/ios-filled/48/codepen.png"/>
+  </a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ThembaTman0">
-</a>
-<a href="https://github.com/ThembaTman0?tab=followers"><img src="https://img.shields.io/github/followers/ThembaTman0?label=Followers&style=social" alt="GitHub Badge"></a> 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThembaTman0"/>
+  <a href="https://github.com/ThembaTman0?tab=followers">
+    <img src="https://img.shields.io/github/followers/ThembaTman0?label=Followers&style=social"/>
+  </a>
+</p>
