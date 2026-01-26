@@ -21,7 +21,6 @@ I care deeply about:
 * systems that survive failure
 * code that explains itself
 
-📌 I aim to write software that is **boring in production and impressive in design**.
 
 * 📄 **IEEE Honours Publication** →
   **[View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9988636)**
