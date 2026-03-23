@@ -2,26 +2,6 @@
 
 <h1 align="center">Themba Ngobeni</h1>
 
-<h3 align="center">Java Engineer | FNB Forex Division | Financial Systems | Distributed Systems</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/themba-ngobeni-6a163b164/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:thembatman0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thembatman0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://thembangobeni.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=netlify&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ThembaTman0&style=flat"/>
-</p>
-
----
-<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png"/></a>
-
-<h1 align="center">Themba Ngobeni</h1>
-
 <h3 align="center">Java Backend Engineer | Forex & Payments Systems | Spring Boot | Microservices</h3>
 
 <p align="center">
