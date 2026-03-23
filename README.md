@@ -18,97 +18,102 @@
 </p>
 
 ---
+<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-## About Me
+<h1 align="center">Themba Ngobeni</h1>
 
-I am a backend Java engineer currently working in the **Forex division at First National Bank (FNB)**, one of South Africa's largest financial institutions. My day-to-day work involves building and maintaining systems that process foreign exchange transactions, where correctness, consistency, and fault tolerance are non-negotiable.
+<h3 align="center">Java Backend Engineer | Forex & Payments Systems | Spring Boot | Microservices</h3>
 
-Over three years of professional development I have moved from writing straightforward REST services to reasoning about concurrency, transaction boundaries, distributed consistency, and how JVM behaviour affects production systems under load.
-
-Outside of financial systems I hold an **IEEE-published Honours research paper** and maintain personal projects exploring microservices architecture and distributed systems design.
-
-- IEEE Publication: [View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9988636)
-- Portfolio: [thembangobeni.netlify.app](https://thembangobeni.netlify.app/)
-- Terminal portfolio: [devthemba.netlify.app](https://devthemba.netlify.app/)
-- Open to global opportunities in backend and financial systems engineering
-
----
-
-## What I Work On Professionally
-
-**Foreign Exchange Systems at FNB**
-
-Working in a forex division means the systems I contribute to deal with real money moving across currencies and borders. The constraints this places on software are different from most domains. A bug is not just a bad user experience, it is a financial discrepancy. This environment has shaped how I think about:
-
-- transactional correctness and data integrity under failure
-- audit trails and reconciliation
-- latency-sensitive processing pipelines
-- regulatory and compliance-aware system design
-
-**Core Engineering Interests**
-
-- Distributed systems and the trade-offs between consistency and availability
-- JVM internals, garbage collection tuning, and performance under load
-- Resilient API design and failure handling patterns
-- Clean domain modelling that keeps business logic testable and portable
-
----
-
-## Technical Skills
-
-**Primary Stack**
-
-<p align="left">
-  <a href="https://www.java.com"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/></a>
-  <a href="https://spring.io"><img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/></a>
-  <a href="https://www.mysql.com"><img src="https://img.icons8.com/fluent/50/mysql-logo.png" title="MySQL"/></a>
-  <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/git.png" title="Git"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/themba-ngobeni-6a163b164/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thembatman0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thembatman0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://thembangobeni.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=netlify&logoColor=white"/>
+  </a>
 </p>
 
-| Area | Technologies |
-|---|---|
-| Language | Java 17, Java 11 |
-| Frameworks | Spring Boot, Spring Cloud, Spring Data JPA, Spring Security |
-| Databases | MySQL, PostgreSQL, Oracle |
-| Messaging | Apache Kafka, RabbitMQ |
-| Infrastructure | Docker, Docker Compose, Linux |
-| Service Architecture | REST APIs, Microservices, Event-driven systems |
-| Testing | JUnit 5, Mockito, Testcontainers |
-| Observability | Spring Actuator, Micrometer, structured logging |
+---
 
-**Supporting Experience**
+## About
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/></a>
-  <a href="https://reactjs.org"><img src="https://img.icons8.com/color/48/react-native.png" title="React"/></a>
-  <a href="https://nodejs.org"><img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/></a>
-  <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/python.png" title="Python"/></a>
-</p>
+I am a Java backend engineer with over 3 years of experience building and maintaining systems in the forex and payments domain at First National Bank (FNB).
 
-I use frontend and scripting tools where they add genuine value. My primary investment is in backend depth.
+I work on backend services that support foreign exchange transactions and cross-border payments, where correctness, consistency, and system reliability are critical. My focus is on building clean, maintainable services using Spring Boot and designing APIs that perform well in distributed environments.
+
+Over time, I have gained practical experience with transaction boundaries, concurrency, and system behaviour under load, and I apply this when designing and improving backend systems.
 
 ---
 
-## How I Think About Software
+## Experience Highlights
 
-Three years of working in financial services has given me a specific set of defaults:
-
-**Correctness before performance.** In a forex system a fast wrong answer is worse than a slow correct one. I default to understanding the transaction boundary before I think about throughput.
-
-**Design for failure.** Networks partition, databases go down, downstream services time out. Systems that only work when everything is healthy are not production-ready. I build with Resilience4j circuit breakers, idempotent endpoints, and dead-letter handling in mind.
-
-**Readable code is a long-term asset.** Code is read far more often than it is written. I treat naming, structure, and domain clarity as first-class engineering concerns, not polish applied at the end.
-
-**Understand the runtime.** Knowing how the JVM manages heap memory, how Spring proxies work, and how Hibernate generates SQL makes me a faster debugger and a better reviewer.
+* Developed and maintained Spring Boot microservices supporting forex and payment systems
+* Worked on systems handling cross-border and high-value financial transactions
+* Improved performance of backend processes related to international payments
+* Designed and maintained REST APIs used across internal services
+* Contributed to system stability and compliance-focused initiatives
+* Containerized services using Docker for consistent deployment
+* Collaborated in Agile teams delivering production-ready features
 
 ---
 
-## Featured Projects
+## Tech Stack
 
-**Bankwave V2.0**
-A banking microservices backend demonstrating production-grade patterns including centralized configuration, service discovery with Eureka, client-side load balancing, and database-per-service isolation. Built with Spring Boot, Spring Cloud, MySQL, and Docker Compose.
+**Backend**
 
-[View Repository](https://github.com/ThembaTman0/Bankwave-V-2.0)
+* Java 17, Java 11
+* Spring Boot, Spring Cloud
+* REST APIs, Microservices
+
+**Data and Infrastructure**
+
+* MySQL, PostgreSQL
+* Docker, Linux
+* Git, Maven
+
+**Messaging and Integration**
+
+* Apache Kafka
+* RabbitMQ
+
+**Testing and Observability**
+
+* JUnit 5, Mockito
+* Spring Actuator, logging
+
+---
+
+## Featured Project
+
+### Bankwave V2.0
+
+Microservices-based banking backend demonstrating service discovery, centralized configuration, and containerized deployment.
+
+Key features:
+
+* Service discovery using Eureka
+* Centralized configuration
+* Docker-based deployment
+* Microservice-based architecture
+
+Repository: [https://github.com/ThembaTman0/Bankwave-V-2.0](https://github.com/ThembaTman0/Bankwave-V-2.0)
+
+---
+
+## Publication
+
+IEEE Honours Research Publication
+[https://ieeexplore.ieee.org/abstract/document/9988636](https://ieeexplore.ieee.org/abstract/document/9988636)
+
+---
+
+## Portfolio
+
+[https://thembangobeni.netlify.app/](https://thembangobeni.netlify.app/)
+[https://devthemba.netlify.app/](https://devthemba.netlify.app/)
 
 ---
 
@@ -123,22 +128,14 @@ A banking microservices backend demonstrating production-grade patterns includin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThembaTman0&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
-<sub>Public repository stats do not reflect professional work done in private codebases at FNB.</sub>
+<sub>Public repositories do not reflect private enterprise work.</sub>
 
 ---
 
-## Connect
+## Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/themba-ngobeni-6a163b164/">
-    <img src="https://img.icons8.com/fluent/48/linkedin.png"/>
-  </a>
-  <a href="https://codepen.io/thembatman0">
-    <img src="https://img.icons8.com/ios-filled/48/codepen.png"/>
-  </a>
-</p>
-
-I am open to senior backend roles, fintech engineering positions, and distributed systems work globally. If you are building something serious, feel free to reach out.
+Email: [thembatman0@gmail.com](mailto:thembatman0@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/themba-ngobeni-6a163b164/](https://www.linkedin.com/in/themba-ngobeni-6a163b164/)
 
 ---
 
