@@ -11,7 +11,7 @@
   <a href="mailto:thembatman0@gmail.com">
     <img src="https://img.shields.io/badge/Email-thembatman0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://thembangobeni.netlify.app/">
+  <a href="https://thembangobeni.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=netlify&logoColor=white"/>
   </a>
 </p>
@@ -92,7 +92,7 @@ IEEE Honours Research Publication
 
 ## Portfolio
 
-[https://thembangobeni.netlify.app/](https://thembangobeni.netlify.app/)
+[https://thembangobeni.vercel.app/](https://thembangobeni.vercel.app/)
 [https://devthemba.netlify.app/](https://devthemba.netlify.app/)
 
 ---
