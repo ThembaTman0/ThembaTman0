@@ -123,10 +123,10 @@ A classical computer vision pipeline, not deep learning: DAISY and HOG feature d
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThembaTman0&theme=black-ice&hide_border=true&background=060A0C"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThembaTman0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThembaTman0&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
+</p> -->
 
 <sub>Public repositories do not reflect private enterprise work.</sub>
 
