@@ -1,8 +1,8 @@
-<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png"/></a>
+<!-- <a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png"/></a> -->
 
 <h1 align="center">Themba Ngobeni</h1>
 
-<h3 align="center">Java Backend Engineer | Forex & Payments Systems | Spring Boot | Microservices</h3>
+<h3 align="center">Java Backend Engineer | Cross-Border Payments & ISO 20022 | Spring Boot | Java EE</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/themba-ngobeni-6a163b164/">
@@ -20,23 +20,22 @@
 
 ## About
 
-I am a Java backend engineer with 3+ years of experience building and maintaining systems in the forex and payments domain at First National Bank (FNB).
+I am a Java backend engineer with 3+ years of experience building and maintaining systems in the forex and cross-border payments domain at First National Bank (FNB).
 
-I work on backend services supporting foreign exchange transactions and cross-border payments, where correctness, consistency, and reliability are critical. My focus is on building clean, maintainable services with Spring Boot and designing APIs that perform well in distributed environments.
+I work on backend services supporting real-time cross-border payments and FNB's migration from SWIFT MT to ISO 20022 MX messaging, where correctness, schema strictness and message integrity are non-negotiable. My day-to-day stack is Spring Boot and Java EE (with Apache Wicket still doing real work in production), and I design APIs that hold up in distributed, high-throughput environments.
 
-I have practical experience with transaction boundaries, concurrency, and system behaviour under load, and I apply this when designing and improving backend systems.
+I have practical experience with transaction boundaries, message queue reliability, and system behaviour under load, and I apply this when designing and improving backend systems.
 
 ---
 
 ## Experience Highlights
 
-* Developed and maintained Spring Boot microservices supporting forex and payment systems
-* Worked on systems handling cross-border and high-value financial transactions
-* Improved performance of backend processes related to international payments
-* Designed and maintained REST APIs used across internal services
-* Contributed to system stability and compliance-focused initiatives
-* Containerized services using Docker for consistent deployment
-* Collaborated in Agile teams delivering production-ready features
+* Built and maintained Spring Boot microservices for FNB's real-time cross-border payments platform (TCIB), now integrated with three regional banking partners across the SADC region
+* Delivered core services for FNB's bank-wide migration from SWIFT MT to ISO 20022 MX messaging, including Spring Boot transformation microservices with XSD validation enforced at the inbound boundary
+* Built the Spring Boot API connecting FNB's Illicit Flow Fraud Model into the live payments pipeline, which I also support in production
+* Carry an on-call production support rotation and mentor two junior developers through fortnightly code reviews
+* Work daily with REST and SOAP APIs, XML/XSD and JAXB, given how much of payments messaging still runs on strict schemas
+* Containerised services using Docker for consistent deployment
 
 ---
 
@@ -44,25 +43,29 @@ I have practical experience with transaction boundaries, concurrency, and system
 
 **Backend**
 
-* Java 17, Java 11
-* Spring Boot, Spring Cloud
-* REST APIs, Microservices
+* Java 8, 11, 17
+* Spring Boot, Java EE, Apache Wicket
+* REST and SOAP APIs, Microservices
 
-**Data and Infrastructure**
+**Data and Persistence**
 
-* MySQL, PostgreSQL
-* Docker, Linux
-* Git, Maven
+* MySQL, Oracle SQL
+* JPA/Hibernate, HQL
 
 **Messaging and Integration**
 
-* Apache Kafka
-* RabbitMQ
+* Apache ActiveMQ
+* XML/XSD, JAXB
+* OAuth 2.0, SSL/TLS
 
-**Testing and Observability**
+**Infrastructure**
 
-* JUnit 5, Mockito
-* Spring Actuator, logging
+* Docker, Linux
+* Git, Maven
+
+**Testing**
+
+* JUnit, Mockito
 
 ---
 
@@ -83,12 +86,12 @@ Repository: [ThembaTman0/synthforge](https://github.com/ThembaTman0/synthforge)
 
 ### Bankwave V2.0
 
-Microservices-based banking backend demonstrating service discovery, centralized configuration, and containerized deployment.
+Microservices-based banking backend demonstrating service discovery, centralised configuration, and containerised deployment.
 
 Key features:
 
 * Service discovery using Eureka
-* Centralized configuration
+* Centralised configuration
 * Docker-based deployment
 * Microservice-based architecture
 
@@ -98,8 +101,13 @@ Repository: [ThembaTman0/Bankwave-V-2.0](https://github.com/ThembaTman0/Bankwave
 
 ## Publication
 
-IEEE Honours Research Publication (CNN-based satellite image classification)
+**Satellite Image Classification Using HOG and DAISY Feature Descriptors**, co-authored with Ritesh Ajoodha. Published at the 2022 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), Maldives, November 2022.
+
+A classical computer vision pipeline, not deep learning: DAISY and HOG feature descriptors combined through Bag of Features encoding, classified with an SVM across 21 scene categories on the UC Merced Land Use dataset.
+
 [View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9988636)
+
+> If your synthforge or satellite-classification repo has its own README with a results table, that table still needs the same fix: change the "This work (SVM + RBF) 2022" row from 81.42% / 68.02% to 81.76% (hybrid) / 67.14% (KNN), matching the published abstract. That table isn't part of this profile README, so it wasn't touched here.
 
 ---
 
